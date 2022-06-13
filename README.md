@@ -1,9 +1,9 @@
 # Unsupervised Machine Learning
 
 ## About
-To run the notebook the following dataset and libraries are needed.
+To run the notebook the following dataset and libraries are needed
 
-Data: primates-morphology.csv
+Data: primates-morphology.csv\
 Used libraries:
 - pandas 1.4.2
 - numpy 1.21.5
